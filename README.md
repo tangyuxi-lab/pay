@@ -27,4 +27,4 @@ This is a Single Page Appliaction with client-side rendering. It includes [mall]
   - best pay sdk
   - Gson
   - Maven
-
+  - IBM MQ
